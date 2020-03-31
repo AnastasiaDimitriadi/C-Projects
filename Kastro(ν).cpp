@@ -26,7 +26,7 @@ int main()
             {
                 printf("*");
             }
-            printf("\n");                                                  //mexri edw leitourgei apsoga//
+            printf("\n");                                                  
         }
         for(j=1; j<=2; j++)
         {
