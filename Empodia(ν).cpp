@@ -27,6 +27,6 @@ int main()
      }
 	}
 	else
-	printf("Den edwses epitrepomenh timh:");
+	printf("Den edwses epitrepti timh:");
     return 0;
 }
