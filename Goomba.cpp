@@ -3,7 +3,7 @@ int main()
 {
     int N,P,B,G,B1,i,kena,star,p=0;
 
-    printf("Dwse enan arithmo metaksy [3-15]: ");
+    printf("Dwse enan arithmo anamesa sto [3-15]: ");
     scanf("%d",&N);
     P=N+3; 											//bash:N+(N-1)
 	B=N+N-2;
@@ -37,3 +37,4 @@ int main()
 		}
 	
 }
+return 0;
