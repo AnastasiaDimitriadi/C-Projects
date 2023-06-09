@@ -3,7 +3,7 @@ int main()
 {
     int N,Z,F, i, j, star, kena;
 
-    printf("Dwse enan arithmo metaksy [3-15]:");           //o xrhsths dhlwnei kena//
+    printf("Dwse enan akeraio arithmo metaksy [3-15]:");    //o xrhsths dhlwnei kena//
     scanf("%d", &kena);
     N=kena+(kena+1);                                    //ta kena + ta asterakia. star=kena +1//
     Z=(kena+1)-3;                                      //ta epipeda//
